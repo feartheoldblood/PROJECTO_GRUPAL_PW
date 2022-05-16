@@ -1,0 +1,17 @@
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.user{
+    width: 45px; height: 45px
+}
+.icons{
+    width: 25px; height: 25px;
+    margin-left: 30px;
+    margin-bottom: 19px;
+}
+#move_left{
+    margin-left: 100px;
+}
