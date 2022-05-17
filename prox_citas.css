@@ -15,3 +15,10 @@ p{
 #move_left{
     margin-left: 100px;
 }
+#move_left2{
+    margin-left: 50px;
+    
+}
+#move_center{
+    text-align: center;
+}
