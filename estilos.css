@@ -40,6 +40,21 @@ h1 {
 
 
 
+
+.docs a {
+    outline: none;
+    text-decoration: none;
+    color: #333;
+    
+}
+
+.docs a:hover {
+    border-bottom: 1px solid;
+    background-color: aquamarine;
+    
+}
+
+
 .navegacion ul{
     margin: 0;
     padding: 0;
@@ -103,6 +118,19 @@ img{
 .img_perfil{
     margin: 5px;
     
+}
+
+.estrellas_doctor{
+    margin: 0px 0px auto;
+    width: 25px;
+    height: 25px;
+    
+}
+
+.busqueda_doctor{
+    margin: 10px;
+    width: 55px;
+    height: 55px;
 }
 
 
