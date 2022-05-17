@@ -1,0 +1,23 @@
+{
+  "name": "projecto_grupal_pw",
+  "version": "1.0.0",
+  "description": "Aca subimos todos los html y css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feartheoldblood/PROJECTO_GRUPAL_PW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feartheoldblood/PROJECTO_GRUPAL_PW/issues"
+  },
+  "homepage": "https://github.com/feartheoldblood/PROJECTO_GRUPAL_PW#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
