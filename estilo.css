@@ -79,5 +79,18 @@ a{
 }
 p{
     text-align: center;
-    padd
+
+}
+.dr{
+    max-width: 240px;
+    max-height: 280px;
+}
+#color_column{
+    background-color:darkgray;
+}
+.color_white{
+    color: white;
+}
+#color_column3{
+    background-color:blanchedalmond;
 }
